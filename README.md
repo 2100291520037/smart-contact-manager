@@ -1,5 +1,5 @@
 Project Overview:
-Smart Contact Manager is a web application developed to manage contacts efficiently. It provides functionalities for users to create, update, delete, and view their contacts. Additionally, it offers administrative features where an admin user can manage all contacts, including their own.
+Smart Student Manager is a web application developed to manage contacts efficiently. It provides functionalities for Student to create, update, delete, and view their contacts. Additionally, it offers administrative features where an admin user can manage all contacts, including their own.
 
 Technologies Used:
 Backend:
@@ -19,11 +19,11 @@ Bootstrap
 Features:
 User Authentication:
 
-Users can register, login, and logout securely.
+Student can register, login, and logout securely.
 Passwords are stored securely using encryption techniques.
 Contact Management:
 
-Users can create new contacts providing necessary details such as name, email, phone number, etc.
+Student can create new contacts providing necessary details such as name, email, phone number, etc.
 Contacts can be updated or deleted as needed.
 Admin Privileges:
 
